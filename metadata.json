@@ -1,0 +1,6 @@
+
+{
+  "name": "SpoonFeedAI",
+  "description": "A production-grade, AI-powered exam preparation platform for VIT, GATE, and General Learning. Features an intelligent teaching assistant, adaptive mock tests, and detailed performance analytics.",
+  "requestFramePermissions": []
+}
